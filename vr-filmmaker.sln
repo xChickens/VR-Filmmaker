@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vr-filmmaker", "Assembly-CSharp-firstpass.csproj", "{39EEDE10-6422-7C1D-C361-E73FA3FB6955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vr-filmmaker", "Assembly-CSharp.csproj", "{3CC92AF0-5483-D2A5-07A0-FFBBB2A5461F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vr-filmmaker", "Assembly-CSharp-Editor-firstpass.csproj", "{7A708965-4BBF-1CF1-3D05-E7B6807E13D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vr-filmmaker", "Assembly-CSharp-Editor.csproj", "{45890D45-7C4D-D32A-FAB3-8ACC220C19B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39EEDE10-6422-7C1D-C361-E73FA3FB6955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EEDE10-6422-7C1D-C361-E73FA3FB6955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EEDE10-6422-7C1D-C361-E73FA3FB6955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EEDE10-6422-7C1D-C361-E73FA3FB6955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC92AF0-5483-D2A5-07A0-FFBBB2A5461F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC92AF0-5483-D2A5-07A0-FFBBB2A5461F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC92AF0-5483-D2A5-07A0-FFBBB2A5461F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC92AF0-5483-D2A5-07A0-FFBBB2A5461F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A708965-4BBF-1CF1-3D05-E7B6807E13D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A708965-4BBF-1CF1-3D05-E7B6807E13D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A708965-4BBF-1CF1-3D05-E7B6807E13D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A708965-4BBF-1CF1-3D05-E7B6807E13D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45890D45-7C4D-D32A-FAB3-8ACC220C19B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45890D45-7C4D-D32A-FAB3-8ACC220C19B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45890D45-7C4D-D32A-FAB3-8ACC220C19B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45890D45-7C4D-D32A-FAB3-8ACC220C19B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
